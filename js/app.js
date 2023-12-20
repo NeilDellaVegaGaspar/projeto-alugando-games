@@ -1,3 +1,4 @@
+// 
 let jogosAlugados = 0;
 
 function contarEExibirJogosAlugados() {
